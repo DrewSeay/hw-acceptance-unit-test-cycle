@@ -40,3 +40,4 @@ gem 'haml'
 
 # Deploy with Capistrano
 # gem 'capistrano'
+gem 'simplecov', :require => false
